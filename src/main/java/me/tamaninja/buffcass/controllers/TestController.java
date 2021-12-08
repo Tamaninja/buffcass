@@ -1,4 +1,4 @@
-package me.tamaninja.buffcass.buffcass.controllers;
+package me.tamaninja.buffcass.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
